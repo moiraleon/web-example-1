@@ -1,0 +1,25 @@
+1. create an index.html, index.js, and a styles.css
+2. intialize your html by pressing shift+1 and letting the page auto fill in
+3. link your style sheet and javascript to your html with a script and link tag  -- <link rel="stylesheet" href="style.css"> -- <script src="index.js"></script>
+4. launch your web browser by right clicking the index.html and previewing in real time
+5. build out html page and use style sheet to adjust front end
+6. When satisfied with front end run the following codes on your index ,js to install required packages :npm i :npm init -y, and nodemon to node your java page(monitor and run your javascript code)
+
+
+
+//key commands
+
+using CLI cd to folder
+using CLI to mkdir and file name
+control ` to open terminal shortcut
+control c to clear terminal
+git init (run once)
+[git add .
+[git commit -m"name of commit"
+copy and paste from github to link to online version control system
+git remote add origin https://github.com/moiraleon/web-example-1.git
+git branch -M main
+git push -u origin main
+
+
+
